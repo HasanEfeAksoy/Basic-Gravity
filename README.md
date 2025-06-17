@@ -1,4 +1,4 @@
-Gravity Simulation
+Gravity Simulation with pure GLFW
 <br>
 Run main.exe file to start.
 <br>
