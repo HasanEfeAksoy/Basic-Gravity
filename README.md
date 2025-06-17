@@ -8,3 +8,5 @@ Notes:
 you can change variables in definition.h
 <br>
 hold left click to make a black hole
+<br>
+bigger density eats other one
